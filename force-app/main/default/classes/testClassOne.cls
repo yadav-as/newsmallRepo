@@ -1,4 +1,4 @@
-/* This is the test class */
+/* This is the test class to test git */
 
 public class testClassOne{
 
