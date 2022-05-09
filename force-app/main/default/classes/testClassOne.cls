@@ -6,7 +6,7 @@ public class testClassOne{
         System.debug('This is test class');
         System.debug('This is test class2');
         System.debug('This is test class3');
-        System.debug('This is test class4');
+        System.debug('This is test class8');
         System.debug('This is test class7');
     }
 }
